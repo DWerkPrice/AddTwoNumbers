@@ -1,0 +1,11 @@
+C:\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csprojAssemblyReference.cache
+C:\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfo.cs
+C:\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.exe
+C:\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.deps.json
+C:\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.json
+C:\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.dev.json
+C:\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.pdb
